@@ -37,6 +37,7 @@ namespace ConnectedMode
 
             switch (choice)
             {
+
                 case 0:
 
                     newValues.Add("name", "shaurma");
